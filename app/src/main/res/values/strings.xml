@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatGPT3</string>
+    <string name="note">If you want to create AI Images start conversation with \"create image\" and it will provide you images, otherwise only text-based conversation.</string>
+</resources>
